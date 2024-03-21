@@ -22,7 +22,8 @@
     "react-dom": "^18.2.0",
     "react-fast-marquee": "^1.6.2",
     "react-icons": "^4.11.0",
-    "react-toastify": "^10.0.4"
+    "react-toastify": "^10.0.4",
+    "sharp": "^0.33.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18",
